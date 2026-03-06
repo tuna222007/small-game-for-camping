@@ -12,12 +12,12 @@ const listGift = [
     },
     {
         name: 'jackpot',
-        percent: 5 / 100,
+        percent: 1 / 100,
         image: './assets/img/jackpot.jpg',
     },
     {
         name: 'missed',
-        percent: 5 / 100,
+        percent: 9 / 100,
         image: './assets/img/missed.png',
     },
 ];
